@@ -1,0 +1,19 @@
+{
+  "admins": [
+    "6831674472"
+  ],
+  "employees": {
+    "6831674472": {
+      "name": "Админ из ЦА",
+      "username": "drugish",
+      "registered_at": "2026-03-31 23:29:23",
+      "role": "admin"
+    },
+    "259431043": {
+      "name": "Логинов Дмитрий Олегович",
+      "username": "loginov_do",
+      "registered_at": "2026-03-31 23:30:20",
+      "role": "employee"
+    }
+  }
+}
