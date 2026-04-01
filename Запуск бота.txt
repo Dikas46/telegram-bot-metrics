@@ -1,0 +1,5 @@
+cd C:\Users\Дмитрий\Desktop\TelegramBot
+
+8632435773AAHjyDl8I447q5NnA-Pq-RiIGemlkHoqyEY
+
+python bot.py
